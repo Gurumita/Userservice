@@ -1,6 +1,6 @@
 package com.revhire.userservice.Services;
 
-import com.revhire.userservice.Repository.UserRepository;
+import com.revhire.userservice.repository.UserRepository;
 import com.revhire.userservice.enums.Role;
 import com.revhire.userservice.exceptions.InvalidCredentialsException;
 import com.revhire.userservice.exceptions.InvalidEmailException;

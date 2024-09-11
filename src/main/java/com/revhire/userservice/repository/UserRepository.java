@@ -1,4 +1,4 @@
-package com.revhire.userservice.Repository;
+package com.revhire.userservice.repository;
 
 
 import com.revhire.userservice.models.User;
